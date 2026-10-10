@@ -1,20 +1,14 @@
-```gitignore
+gitignore
 # =========================
 # Obsidian
 # =========================
 
-# Workspace и локальное состояние
 .obsidian/workspace.json
 .obsidian/workspace-mobile.json
 .obsidian/cache/
 .obsidian/graph.json
 
-# Настройки плагинов, установленных локально
 .obsidian/plugins/*/
-
-# Если нужно хранить настройки конкретных плагинов,
-# добавь исключения ниже, например:
-# !.obsidian/plugins/obsidian-git/
 
 # =========================
 # macOS / Windows
@@ -30,7 +24,6 @@ Desktop.ini
 # C / C++
 # =========================
 
-# Скомпилированные файлы
 *.o
 *.obj
 *.a
@@ -44,7 +37,6 @@ Desktop.ini
 *.ilk
 *.pch
 
-# Отладочные символы и сборки
 *.dSYM/
 Debug/
 Release/
@@ -70,5 +62,4 @@ cmake-build-*/
 *.temp
 *.bak
 *~
-```
 
