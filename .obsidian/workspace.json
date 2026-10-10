@@ -11,15 +11,14 @@
             "id": "0a0467950a8ad151",
             "type": "leaf",
             "state": {
-              "type": "split-diff-view",
+              "type": "markdown",
               "state": {
-                "aFile": ".obsidian/graph.json",
-                "bFile": ".obsidian/graph.json",
-                "aRef": "HEAD",
-                "bRef": ""
+                "file": "03  Занятия/3.1 Язык программирования C/3.1.1 Лекции/С-01 – Введение в C.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "diff",
-              "title": "Diff: graph.json  (Index)"
+              "icon": "lucide-file",
+              "title": "С-01 – Введение в C"
             }
           }
         ]
@@ -197,7 +196,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "9481fbfc49a6113e",
+  "active": "0a0467950a8ad151",
   "lastOpenFiles": [
     "03  Занятия/3.1 Язык программирования C/3.1.1 Лекции/С-01 – Введение в C.md"
   ]
