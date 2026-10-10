@@ -4,7 +4,7 @@ duration_min: 120
 id: C-LAB-01
 level: beginner
 prerequisites:
-  - С-01
+  - "[[С-01]]"
 status: draft
 tags:
   - ctf/lab
