@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Templates/Урок.md",
+                "file": "03  Занятия/01. Занятие по языку программирования С.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Урок"
+              "title": "01. Занятие по языку программирования С"
             }
           }
         ]
@@ -199,11 +199,11 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "48de78d9629998d5",
+  "active": "5522b8b6f9434b91",
   "lastOpenFiles": [
+    "Templates/Урок.md",
     "Templates/Разбор CTF.md",
     "Templates/Ретроспектива.md",
-    "Templates/Урок.md",
     "Templates/README.md",
     "03  Занятия/01. Занятие по языку программирования С.md",
     "README.md",
