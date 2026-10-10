@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "02 Направления/Reverse Engineering/Reverse Engineering — дорожная карта.md",
+                "file": "Templates/Урок.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Reverse Engineering — дорожная карта"
+              "title": "Урок"
             }
           }
         ]
@@ -201,10 +201,13 @@
   },
   "active": "5522b8b6f9434b91",
   "lastOpenFiles": [
+    "README.md",
+    "03 Конспекты занятий/README.md",
+    "03 Конспекты занятий/Без названия.md",
+    "02 Направления/Reverse Engineering/Reverse Engineering — дорожная карта.md",
     "01 Основы/C и память/C и память — основы.md",
     "01 Основы/Linux/Linux — основы.md",
     "01 Основы/Networking/Сети — основы.md",
-    "README.md",
     "Templates/Разбор CTF.md",
     "04 Шпаргалки/README.md",
     "06 Методические материалы/README.md",
@@ -218,7 +221,6 @@
     "00 Dashboard/Календарь.md",
     "00 Dashboard/Бэклог.md",
     "00 Dashboard/Учебный план.md",
-    "03 Конспекты занятий/README.md",
     "01 Основы/C и память",
     "01 Основы/Linux",
     "01 Основы/Git и GitHub/Git и GitHub — основы.md",
@@ -228,7 +230,6 @@
     "01 Основы/Python",
     "02 Направления/Vulnerabilities/Vulnerabilities — дорожная карта.md",
     "02 Направления/Vulnerabilities",
-    "02 Направления/Reverse Engineering/Reverse Engineering — дорожная карта.md",
     "02 Направления/Reverse Engineering",
     "02 Направления/Traffic Analysis/Traffic Analysis — дорожная карта.md",
     "02 Направления/Traffic Analysis",
