@@ -1,24 +1,25 @@
 {
   "main": {
-    "id": "678da7124be06747",
+    "id": "29fae36b745c267c",
     "type": "split",
     "children": [
       {
-        "id": "6d4189bd58fc22fb",
+        "id": "4a292dab642d33ac",
         "type": "tabs",
         "children": [
           {
-            "id": "5522b8b6f9434b91",
+            "id": "0a0467950a8ad151",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "split-diff-view",
               "state": {
-                "file": "00 Dashboard/Главная.md",
-                "mode": "source",
-                "source": false
+                "aFile": ".obsidian/graph.json",
+                "bFile": ".obsidian/graph.json",
+                "aRef": "HEAD",
+                "bRef": ""
               },
-              "icon": "lucide-file",
-              "title": "Главная"
+              "icon": "diff",
+              "title": "Diff: graph.json  (Index)"
             }
           }
         ]
@@ -27,15 +28,15 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "95a53903a4add020",
+    "id": "e355a72323f284e6",
     "type": "split",
     "children": [
       {
-        "id": "b5cd89455187658b",
+        "id": "97382ab136786bbc",
         "type": "tabs",
         "children": [
           {
-            "id": "48de78d9629998d5",
+            "id": "9a992554205a578f",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -50,7 +51,7 @@
             }
           },
           {
-            "id": "bfdfa7f1815fc422",
+            "id": "ef8d14ef0d8dd253",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -67,7 +68,7 @@
             }
           },
           {
-            "id": "5bee9d5e1478ea59",
+            "id": "bc5a2d205046536e",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -86,20 +87,19 @@
     "width": 300
   },
   "right": {
-    "id": "02104cf2276950db",
+    "id": "5da7e7cdc0bdaf74",
     "type": "split",
     "children": [
       {
-        "id": "e81a3a1d73b5eb4c",
+        "id": "2ea133f76da4b4e4",
         "type": "tabs",
         "children": [
           {
-            "id": "d1cfd2881a19e7de",
+            "id": "fcee079a8ca84a92",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Templates/Разбор CTF.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,12 +113,11 @@
             }
           },
           {
-            "id": "735cc36e76c94441",
+            "id": "61320609bb65c369",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Templates/Разбор CTF.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
@@ -127,7 +126,7 @@
             }
           },
           {
-            "id": "835d6cd74651c21a",
+            "id": "983d325e6df74540",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -142,7 +141,7 @@
             }
           },
           {
-            "id": "e02dcdf5b6f5dcd7",
+            "id": "68a35de40904bbe2",
             "type": "leaf",
             "state": {
               "type": "all-properties",
@@ -156,12 +155,11 @@
             }
           },
           {
-            "id": "380347493fb8d2a0",
+            "id": "b857b0f48c2a7a5b",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
-                "file": "Templates/Разбор CTF.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -171,7 +169,7 @@
             }
           },
           {
-            "id": "d93e943d5f4cb4e3",
+            "id": "9481fbfc49a6113e",
             "type": "leaf",
             "state": {
               "type": "git-view",
@@ -199,42 +197,8 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "5522b8b6f9434b91",
+  "active": "9481fbfc49a6113e",
   "lastOpenFiles": [
-    "00 Dashboard/Учебный план.md",
-    "00 Dashboard/Главная.md",
-    "00 Dashboard/Бэклог.md",
-    "03  Занятия/3.1 Язык программирования C/3.1.2 Лабораторные/C-LAB-01 – Основы C (ввод-вывод, условия, циклы и массивы).md",
-    "03  Занятия/3.1 Язык программирования C/3.1.3 Код",
-    "03  Занятия/3.1 Язык программирования C",
-    "03  Занятия/3.1 Язык программирования C/3.1.1 Лекции/С-01 – Введение в C.md",
-    "README.md",
-    "02 Направления/Vulnerabilities/Vulnerabilities — дорожная карта.md",
-    "03  Занятия/3.1 Язык программирования C/3.1.2 Лабораторные",
-    "03  Занятия/3.1 Язык программирования C/3.1.1 Лекции",
-    "Templates/Урок.md",
-    "Templates/Разбор CTF.md",
-    "Templates/Ретроспектива.md",
-    "Templates/README.md",
-    "2026-10-10.md",
-    "03  Занятия/README.md",
-    "02 Направления/Reverse Engineering/Reverse Engineering — дорожная карта.md",
-    "01 Основы/C и память/C и память — основы.md",
-    "01 Основы/Linux/Linux — основы.md",
-    "01 Основы/Networking/Сети — основы.md",
-    "04 Шпаргалки/README.md",
-    "06 Методические материалы/README.md",
-    "05 Разборы задач/README.md",
-    "Templates/Практика.md",
-    "00 Dashboard/Правила работы с материалами.md",
-    "00 Dashboard/Календарь.md",
-    "01 Основы/C и память",
-    "01 Основы/Linux",
-    "01 Основы/Git и GitHub/Git и GitHub — основы.md",
-    "01 Основы/Git и GitHub",
-    "01 Основы/Networking",
-    "01 Основы/Python/Python — основы.md",
-    "01 Основы/Python",
-    "02 Направления/Vulnerabilities"
+    "03  Занятия/3.1 Язык программирования C/3.1.1 Лекции/С-01 – Введение в C.md"
   ]
 }
