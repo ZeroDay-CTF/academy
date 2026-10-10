@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
+                "file": "02 Направления/Reverse Engineering/Reverse Engineering — дорожная карта.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "README"
+              "title": "Reverse Engineering — дорожная карта"
             }
           }
         ]
@@ -201,6 +201,10 @@
   },
   "active": "5522b8b6f9434b91",
   "lastOpenFiles": [
+    "01 Основы/C и память/C и память — основы.md",
+    "01 Основы/Linux/Linux — основы.md",
+    "01 Основы/Networking/Сети — основы.md",
+    "README.md",
     "Templates/Разбор CTF.md",
     "04 Шпаргалки/README.md",
     "06 Методические материалы/README.md",
@@ -209,20 +213,16 @@
     "Templates/Урок.md",
     "Templates/Ретроспектива.md",
     "Templates/Практика.md",
-    "README.md",
     "00 Dashboard/Правила работы с материалами.md",
     "00 Dashboard/Главная.md",
     "00 Dashboard/Календарь.md",
     "00 Dashboard/Бэклог.md",
     "00 Dashboard/Учебный план.md",
     "03 Конспекты занятий/README.md",
-    "01 Основы/C и память/C и память — основы.md",
     "01 Основы/C и память",
-    "01 Основы/Linux/Linux — основы.md",
     "01 Основы/Linux",
     "01 Основы/Git и GitHub/Git и GitHub — основы.md",
     "01 Основы/Git и GitHub",
-    "01 Основы/Networking/Сети — основы.md",
     "01 Основы/Networking",
     "01 Основы/Python/Python — основы.md",
     "01 Основы/Python",
