@@ -5,6 +5,7 @@ id: C-LAB-01
 level: beginner
 prerequisites:
   - "[[С-01 – Введение в C]]"
+  - "[[C-01 Введение в C.pdf]]"
 status: draft
 tags:
   - ctf/lab
